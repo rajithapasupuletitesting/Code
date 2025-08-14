@@ -1,0 +1,20 @@
+[
+  {
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "20",
+    "return": "25",
+    "travellerClass": "Economy",
+    "airline": "SpiceJet",
+    "fareType": "Senior Citizen"
+  },
+  {
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "22",
+    "return": "28",
+    "travellerClass": "Business",
+    "airline": "IndiGo",
+    "fareType": "Regular"
+  }
+]

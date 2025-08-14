@@ -1,0 +1,12 @@
+{
+  "testFiles": "**/*.{js,feature,cy.js}",
+  "e2e": {
+    "specPattern": "cypress/e2e/**/*.{js,feature,cy.js}"
+  },
+  "env": {
+    "cucumber": true
+  },
+  "screenshotsFolder": "cypress/screenshots",
+  "video": false,
+  "chromeWebSecurity": false
+}
